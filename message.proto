@@ -4,5 +4,5 @@ package make87.template_other;
 import "google/protobuf/timestamp.proto";
 
 message OtherMessage {
-  google.protobuf.Timestamp timestamp = 1;
+    google.protobuf.Timestamp timestamp = 1;
 }
