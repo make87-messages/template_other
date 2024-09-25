@@ -1,5 +1,5 @@
 syntax = "proto3";
-package template_other.other_msg;
+package make87.template_other;
 
 import "google/protobuf/timestamp.proto";
 
